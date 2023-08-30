@@ -51,10 +51,3 @@ figcaption{
     font-style: italic;
     text-align: center;
 }
-.box{
-    background-color: #36a0e7;
-    width: 400px;
-    padding: 50px;
-    border: solid 20px black;
-    box-sizing: border-box;
-}
