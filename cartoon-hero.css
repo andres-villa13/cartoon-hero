@@ -1,0 +1,60 @@
+body{
+    background-color: blanchedalmond;
+    margin: 0px;
+    font-family: helvetica, arial narrow;
+    font-size: 20px;
+}
+/*header styles*/
+header{
+    background-color: #36a0e7;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+}
+header h1{
+    color: white;
+    font-family: 'Handjet', cursive;
+    font-size: 72px;
+}
+main{
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+main img{
+    max-height: 200px;
+    margin-top: 10px;
+}
+h1, h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    color:#36E761;
+}
+a{
+    color: rgb(213, 85, 149);
+}
+a:hover{
+    color:hotpink;
+}
+footer{
+    background-color: #36a0e7;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-size: 15px;
+}
+figcaption{
+    color: rgb(171, 169, 169);
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+.box{
+    background-color: #36a0e7;
+    width: 400px;
+    padding: 50px;
+    border: solid 20px black;
+    box-sizing: border-box;
+}
